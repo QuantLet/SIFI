@@ -1,0 +1,6 @@
+Name of Quantlet: SIFI
+Published in: submitted
+Description: Tail event driven networks of SIFIs
+Keywords: SIFI, quantile regression, networks
+Author: Chen, Härdle, Okhrin
+Submitted:  Journal of Econometrics
