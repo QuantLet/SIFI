@@ -1,6 +1,6 @@
 Name of Quantlet: SIFI
 Published in: submitted
 Description: Tail event driven networks of SIFIs
-Keywords: SIFI, quantile regression, networks
+Keywords: SIFI, quantile regression, networks, tails, event
 Author: Chen, Härdle, Okhrin
 Submitted:  Journal of Econometrics
